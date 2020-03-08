@@ -3,7 +3,7 @@ layout: post
 title: Let it Go
 ---
 
-One month ago, I came across a situation that I find myself being cheated. I am angry. Being angry is a normal human emotion when we find ourselves mistreated. The moment I found out about it, my mind was full of furies like a ballon about to explode if given an additional little stimuli. What should I do? I tried to use what I learned from Feeling Good to calm myself: 
+One month ago, I came across a situation that I find myself being cheated. I am angry. Being angry is a normal human emotion when we find ourselves mistreated. The moment I found out about it, my mind was full of furies like a ballon about to explode if given an additional little stimuli. What should I do? I tried to use what I learned from Feeling Good to calm myself. 
 
 The fact - I am cheated. My trust over others has been exploited. 
 My feelings - Extremly angry, feeling unfair and even questioning the worth of being honest
@@ -15,12 +15,7 @@ But would these thoughts be helpful to make me less angry?
 
 They're not. 
 
-
-
-
-
-
-
+Being angry is not my best self-interest. The best revenage is to live better and treat myself better. Let it go is the best solution here for my best peacefulness and to move on a new chapter.  
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
